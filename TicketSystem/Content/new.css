@@ -1,0 +1,25 @@
+﻿
+div.label-wrapper {
+  position: relative;
+  min-width: 500px;
+  max-width: 400px;
+  height: 40px;
+  display:block;
+  font-weight:bold;
+}
+div.label-wrapper > label {
+  position: absolute;
+  left: 0;
+  width: 100px;
+  text-align: right; /* not absolutely necessary, but will be if you assign a width to the label */
+  white-space: nowrap; /* Again, not totally necessary, but if you run out of space otherwise you'll get multiple lines for your label */
+}
+div.label-wrapper > input[type=text] {
+  position: absolute;
+  left: 90px; /* Leaves a 15px gap between end of label and start of textbox.  Increase value if you want more than 15px or decrease if you want less */
+}
+
+.textbox {
+    width: 200px;
+    height: 100px;
+}
