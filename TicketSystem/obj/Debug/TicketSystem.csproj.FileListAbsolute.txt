@@ -35,3 +35,40 @@ c:\users\j81602\documents\visual studio 2013\Projects\TicketSystem\TicketSystem\
 c:\users\j81602\documents\visual studio 2013\Projects\TicketSystem\TicketSystem\obj\Debug\TicketSystem.dll
 c:\users\j81602\documents\visual studio 2013\Projects\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
 c:\users\j81602\documents\visual studio 2013\Projects\TicketSystem\TicketSystem\obj\Debug\TicketSystem.csprojResolveAssemblyReference.cache
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\TicketSystem.dll.config
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\TicketSystem.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\TicketSystem.pdb
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Antlr3.Runtime.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.Core.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\EntityFramework.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\System.Web.Optimization.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\System.Web.Providers.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\WebGrease.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\EntityFramework.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\System.Web.Providers.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.Core.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\obj\Debug\TicketSystem.csprojResolveAssemblyReference.cache
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\obj\Debug\TicketSystem.dll
+C:\Users\J43290\Desktop\tool\trackingtool\TicketSystem\obj\Debug\TicketSystem.pdb

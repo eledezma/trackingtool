@@ -5,27 +5,50 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Ticket Submission Application</title>
+    <link href="Content/new.css" rel="stylesheet" />
+    <link href="Content/Site.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
-        Ticket Submission Application
+        <h2>Ticket Submission Application</h2>
         <br />
         <br />
-        Name: <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br/>
-        Title: <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox><br/>
-        NGID: <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox><br/>
-        Sector: <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox><br/>
-        Building: <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox><br/>
-        Phone: <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox><br/>
-
-        Issue Title:<br/>
-        <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox><br/>
-        Issue Description<br/>
-        <asp:TextBox ID="TextBox8" runat="server"></asp:TextBox>
-
-        <asp:Button ID="Button1" runat="server" Text="Submit!" />
-
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl1">Name:</asp:Label>
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl2">Title:</asp:Label>
+            <asp:TextBox ID="TextBox9" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl3">NGID:</asp:Label>
+            <asp:TextBox ID="TextBox10" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl4">Sector:</asp:Label>
+            <asp:TextBox ID="TextBox11" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl5">Building:</asp:Label>
+            <asp:TextBox ID="TextBox12" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl6">Phone:</asp:Label>
+            <asp:TextBox ID="TextBox14" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+            <asp:Label runat="server" id="lbl7">Issue Title:</asp:Label>
+            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox><br/>
+        </div>
+        <div class='label-wrapper'>
+        <asp:Label runat="server" id="lbl8">Issue Description:</asp:Label><br />
+        </div>
+            <div class='label-wrapper'>
+                <asp:TextBox ID="TextBox8" runat="server" TextMode="MultiLine" Rows="5" Style="margin-left: 90px; margin-top: -10px" ></asp:TextBox>
+            </div>
+            <asp:Button ID="Button1" runat="server" Text="Submit!" Style="margin-top: 35px; margin-left: 620px"/>               
     </div>
     </form>
 </body>
