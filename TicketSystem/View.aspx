@@ -36,6 +36,7 @@
                 <asp:TableHeaderCell>NGID</asp:TableHeaderCell>
                 <asp:TableHeaderCell>Sector</asp:TableHeaderCell>
                 <asp:TableHeaderCell>Issue</asp:TableHeaderCell>
+                <asp:TableHeaderCell>Date Issued</asp:TableHeaderCell>
             </asp:TableHeaderRow>
             <asp:TableRow 
                 ID="TableRow1" 
@@ -47,6 +48,7 @@
                 <asp:TableCell>J12345</asp:TableCell>
                 <asp:TableCell>AS</asp:TableCell>
                 <asp:TableCell>Test</asp:TableCell>
+                <asp:TableCell>08-12-2017</asp:TableCell>
             </asp:TableRow>
             <asp:TableRow 
                 ID="TableRow2" 
@@ -58,6 +60,7 @@
                 <asp:TableCell>J54321</asp:TableCell>
                 <asp:TableCell>ES</asp:TableCell>
                 <asp:TableCell>Test</asp:TableCell>
+                <asp:TableCell>05-13-2017</asp:TableCell>
             </asp:TableRow>
         </asp:Table>
     </div>
