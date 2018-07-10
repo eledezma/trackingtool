@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Ticket Submission Application</title>
+    <title>Ticket Submission Application</title> 
     <link href="Content/new.css" rel="stylesheet" />
     <link href="Content/Site.css" rel="stylesheet" />
 </head>
@@ -12,6 +12,7 @@
     <form id="form1" runat="server">
     <div>
         <h2>Ticket Submission Application</h2>
+        <hr width="450" align="left" color="Gainsboro" />
         <br />
         <br />
         <div class='label-wrapper'>
@@ -48,7 +49,7 @@
             <div class='label-wrapper'>
                 <asp:TextBox ID="TextBox8" runat="server" TextMode="MultiLine" Rows="5" Style="margin-left: 90px; margin-top: -10px" ></asp:TextBox>
             </div>
-            <asp:Button ID="Button1" runat="server" Text="Submit!" Style="margin-top: 35px; margin-left: 620px"/>               
+            <asp:Button ID="Button1" runat="server" Text="Submit" Style="margin-top: 35px; margin-left: 620px" PostBackUrl="~/View.aspx"/>               
     </div>
     </form>
 </body>
