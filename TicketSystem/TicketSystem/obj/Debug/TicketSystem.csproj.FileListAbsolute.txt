@@ -69,6 +69,6 @@ C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\bin\DotNetOp
 C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\obj\Debug\TicketSystem.csprojResolveAssemblyReference.cache
 C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\obj\Debug\TicketSystem.dll
 C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+C:\Users\J81602\Desktop\tool\trackingtool\TicketSystem\TicketSystem\obj\Debug\TicketSystem.csprojResolveAssemblyReference.cache

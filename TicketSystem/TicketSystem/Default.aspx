@@ -14,13 +14,14 @@
         </div>
     </section>
 </asp:Content>
+
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>Input Your Information:</h3>
     <ol class="round">
-        <li class="one">
+        
            
             Name:   <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br/>
-            Title: <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox><br/>
+            Title:  <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox><br/>
             NGID: <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox><br/>
             Sector: <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox><br/>
             Building: <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox><br/>
@@ -35,16 +36,10 @@
             
             
             <a href="http://go.microsoft.com/fwlink/?LinkId=245146">View Ticket Mode</a>
-        </li>
+        
 
         
-        <li class="two">
-            
-
-        </li>
-        <li class="three">
-            
-
-        </li>
+        
+        
     </ol>
 </asp:Content>
