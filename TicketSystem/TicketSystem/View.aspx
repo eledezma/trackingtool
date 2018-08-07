@@ -22,7 +22,7 @@
     
     <%--<form id="form1" runat="server">--%>
     <div>
-            <asp:Table ID="Table1" runat="server">
+            <%--<asp:Table ID="Table1" runat="server">
             <asp:TableHeaderRow BorderColor="Black">
                 <asp:TableCell>ID</asp:TableCell>
                 <asp:TableCell>Sector</asp:TableCell>
@@ -39,10 +39,22 @@
                 <asp:TableCell>July 10, 2020</asp:TableCell>
                 <asp:TableCell>Adam Lewis</asp:TableCell>
             </asp:TableRow>               
-
-
             <asp:TableFooterRow></asp:TableFooterRow>
-        </asp:Table>
+        </asp:Table>--%>
+
+        
+        
+        <%--<asp:GridView ID="gridView" runat="server" AutoGenerateColumns ="false">
+            <columns>
+                <asp:BoundField DataField="ID" HeaderText="ID" />
+                <asp:BoundField DataField="sector" HeaderText="Sector" />
+                <asp:BoundField DataField="issue" HeaderText="Issue Title" />
+                <asp:BoundField DataField="contact" HeaderText="Primary Contact" />
+                <asp:BoundField DataField="date" HeaderText="Date Submitted" />
+                <asp:BoundField DataField="assigned" HeaderText="Assigned To" />
+            </columns>
+
+        </asp:GridView>--%>
 
 
     </div>
