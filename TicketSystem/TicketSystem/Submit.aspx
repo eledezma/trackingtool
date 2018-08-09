@@ -21,27 +21,27 @@
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl2">Title:</asp:Label>
-            <asp:TextBox ID="TextBox9" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl3">NGID:</asp:Label>
-            <asp:TextBox ID="TextBox10" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl4">Sector:</asp:Label>
-            <asp:TextBox ID="TextBox11" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl5">Building:</asp:Label>
-            <asp:TextBox ID="TextBox12" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl6">Phone:</asp:Label>
-            <asp:TextBox ID="TextBox14" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
             <asp:Label runat="server" id="lbl7">Issue Title:</asp:Label>
-            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox><br/>
+            <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox><br/>
         </div>
         <div class='label-wrapper'>
         <asp:Label runat="server" id="lbl8">Issue Description:</asp:Label><br />
@@ -49,8 +49,10 @@
             <div class='label-wrapper'>
                 <asp:TextBox ID="TextBox8" runat="server" TextMode="MultiLine" Rows="5" Style="margin-left: 90px; margin-top: -10px" ></asp:TextBox>
             </div>
-            <asp:Button ID="Button1" runat="server" Text="Submit" Style="margin-top: 35px; margin-left: 620px" PostBackUrl="~/View.aspx"/>               
-    </div>
+            <asp:Button ID="Button1" runat="server" Text="Submit" Style="margin-top: 35px; margin-left: 620px" OnClick="Button1_Click"/>               
+        <asp:Label runat="server" id="lblquery"></asp:Label>               
+        </div>
+        <br />
     </form>
 </body>
 </html>

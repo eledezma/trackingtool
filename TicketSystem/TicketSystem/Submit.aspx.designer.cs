@@ -49,13 +49,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl2;
         
         /// <summary>
-        /// TextBox9 control.
+        /// TextBox2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox9;
+        protected global::System.Web.UI.WebControls.TextBox TextBox2;
         
         /// <summary>
         /// lbl3 control.
@@ -67,13 +67,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl3;
         
         /// <summary>
-        /// TextBox10 control.
+        /// TextBox3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox10;
+        protected global::System.Web.UI.WebControls.TextBox TextBox3;
         
         /// <summary>
         /// lbl4 control.
@@ -85,13 +85,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl4;
         
         /// <summary>
-        /// TextBox11 control.
+        /// TextBox4 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox11;
+        protected global::System.Web.UI.WebControls.TextBox TextBox4;
         
         /// <summary>
         /// lbl5 control.
@@ -103,13 +103,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl5;
         
         /// <summary>
-        /// TextBox12 control.
+        /// TextBox5 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox12;
+        protected global::System.Web.UI.WebControls.TextBox TextBox5;
         
         /// <summary>
         /// lbl6 control.
@@ -121,13 +121,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl6;
         
         /// <summary>
-        /// TextBox14 control.
+        /// TextBox6 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox14;
+        protected global::System.Web.UI.WebControls.TextBox TextBox6;
         
         /// <summary>
         /// lbl7 control.
@@ -139,13 +139,13 @@ namespace TicketSystem {
         protected global::System.Web.UI.WebControls.Label lbl7;
         
         /// <summary>
-        /// TextBox2 control.
+        /// TextBox7 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox TextBox7;
         
         /// <summary>
         /// lbl8 control.
@@ -173,5 +173,14 @@ namespace TicketSystem {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button1;
+        
+        /// <summary>
+        /// lblquery control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblquery;
     }
 }
